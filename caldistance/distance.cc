@@ -1,4 +1,4 @@
-/* Name :Nancy Saxena , SID :014554891 */
+
 
 #include"distance.h"
 #include<iostream>
