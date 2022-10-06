@@ -1,4 +1,4 @@
-/*Name :Nancy Saxena SID:014554891 */
+
 #ifndef MERGESTRING_H
 #define MERGESTRING_H
 #include <string>
