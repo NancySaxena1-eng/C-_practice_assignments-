@@ -1,7 +1,7 @@
 
-#ifndef CMPE180ASORT_H
-#define CMPE180ASORT_H
-void cmpe180ASort(int a[],int sz);
-void cmpe180ASort(char c[],int sz);
+#ifndef SORT_H
+#define SORT_H
+void Sort(int a[],int sz);
+void Sort(char c[],int sz);
 #endif
 
