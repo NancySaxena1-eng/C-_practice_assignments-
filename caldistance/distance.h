@@ -1,4 +1,4 @@
-/*Name :Nancy Saxena ,SID ;014554891 */
+
 #ifndef distance_h
 #define distance_h
 #include "XYPoint.h"
